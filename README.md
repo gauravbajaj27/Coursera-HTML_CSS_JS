@@ -1,1 +1,2 @@
-Repository containing all the assignment for HTML, CSS and JS course assignments.
+Repository containing all the assignments for HTML, CSS and JS for Web Developers course.
+
