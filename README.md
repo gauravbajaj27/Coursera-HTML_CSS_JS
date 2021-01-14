@@ -1,2 +1,4 @@
-Repository containing all the assignments for HTML, CSS and JS for Web Developers course.
-
+# Couresra-HTML, CSS and JS for web developers course assignments
+----
+## Assignments
+- ### [Module-2 Assignment] (Module2_assignment)
